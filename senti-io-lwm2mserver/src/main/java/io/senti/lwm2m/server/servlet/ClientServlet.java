@@ -1,4 +1,4 @@
-/** *****************************************************************************
+/*******************************************************************************
  * Copyright (c) 2013-2015 Sierra Wireless and others.
  *
  * All rights reserved. This program and the accompanying materials
@@ -13,7 +13,7 @@
  * Contributors:
  *     Sierra Wireless - initial API and implementation
  *     Orange - keep one JSON dependency
- ****************************************************************************** */
+ *******************************************************************************/
 package io.senti.lwm2m.server.servlet;
 
 import io.senti.lwm2m.server.servlet.json.JacksonLinkSerializer;
