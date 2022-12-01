@@ -101,6 +101,7 @@ Contributors:
     <module>leshan-server-core-demo</module>
     <module>leshan-server-demo</module>
     <module>leshan-bsserver-demo</module>
+    <module>senti-io-lwm2mserver</module>
   </modules>
 
   <scm child.scm.developerConnection.inherit.append.path="false" child.scm.url.inherit.append.path="false">
